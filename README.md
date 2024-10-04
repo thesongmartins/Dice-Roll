@@ -25,9 +25,9 @@ The player with the higher sum of the dice values wins.
 In the event of a tie, players roll again.
 You can reset the game and play as many rounds as you like!
 ## 🛠 Technologies Used
-# HTML5: Markup for creating the structure of the game.
-# CSS3: Styling for making the game look visually appealing.
-# JavaScript (ES6): Game logic, dice rolls, and DOM manipulation.
+ HTML5: Markup for creating the structure of the game.
+ CSS3: Styling for making the game look visually appealing.
+ JavaScript (ES6): Game logic, dice rolls, and DOM manipulation.
 
 ## 📥 Installation
 To run the game locally, follow these steps:
